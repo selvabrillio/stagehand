@@ -20,6 +20,60 @@ Kit and Yeoman.
 
 ## Installation
 
+# Stagehand - A Dart project generator
+
+![Stagehand banner](https://raw.githubusercontent.com/google/stagehand/master/site/banner_stagehand.jpg)
+
+[![Build Status](https://travis-ci.org/google/stagehand.svg?branch=master)](https://travis-ci.org/google/stagehand)
+
+## Helps you get setup!
+
+Stagehand helps you get your Dart projects set up and ready for the big show.
+It is a Dart project scaffolding generator, inspired by tools like Web Starter
+Kit and Yeoman.Stagehand - A Dart project generator
+
+![Stagehand banner](https://raw.githubusercontent.com/google/stagehand/master/site/banner_stagehand.jpg)
+
+[![Build Status](https://travis-ci.org/google/stagehand.svg?branch=master)](https://travis-ci.org/google/stagehand)
+
+## Helps you get setup!
+
+Stagehand helps you get your Dart projects set up and ready for the big show.
+It is a Dart project scaffolding generator, inspired by tools like Web Starter
+Kit and Yeoman.
+
+## Things you can create with Stagehand
+
+* consoleapp - a minimal command-line script
+* package - a library for pub, complete with tests
+* polymerapp - a web app with polymer.dart and paper (material design) elements
+* shelfapp - a minimal web server using the shelf package
+* webapp - a minimal responsive web app, with Sass, routing, and more
+
+## Installation
+
+# Stagehand - A Dart project generator
+
+![Stagehand banner](https://raw.githubusercontent.com/google/stagehand/master/site/banner_stagehand.jpg)
+
+[![Build Status](https://travis-ci.org/google/stagehand.svg?branch=master)](https://travis-ci.org/google/stagehand)
+
+## Helps you get setup!
+
+Stagehand helps you get your Dart projects set up and ready for the big show.
+It is a Dart project scaffolding generator, inspired by tools like Web Starter
+Kit and Yeoman.
+
+## Things you can create with Stagehand
+
+* consoleapp - a minimal command-line script
+* package - a library for pub, complete with tests
+* polymerapp - a web app with polymer.dart and paper (material design) elements
+* shelfapp - a minimal web server using the shelf package
+* webapp - a minimal responsive web app, with Sass, routing, and more
+
+## Installation
+
 Requirements:
 
 * Dart SDK 1.6 or greater on your path
